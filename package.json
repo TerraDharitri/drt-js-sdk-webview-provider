@@ -1,6 +1,6 @@
 {
   "name": "@terradharitri/sdk-webview-provider",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "SDK Webview Provider",
   "main": "out/index.js",
   "types": "out/index.d.js",
@@ -16,12 +16,12 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@terradharitri/sdk-core": "0.1.4",
-    "@terradharitri/sdk-web-wallet-cross-window-provider": "0.0.3",
+    "@terradharitri/sdk-web-wallet-cross-window-provider": "0.0.5",
     "prettier": "3.2.5",
     "typescript": "5.4.5"
   },
   "peerDependencies": {
     "@terradharitri/sdk-core": "0.1.4",
-    "@terradharitri/sdk-web-wallet-cross-window-provider": "0.0.3"
+    "@terradharitri/sdk-web-wallet-cross-window-provider": "0.0.5"
   }
 }
